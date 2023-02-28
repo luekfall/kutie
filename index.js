@@ -27,5 +27,5 @@ async function init(token) {
     kutie.connect();
 }
 
-const tokenFromStupidCommand = process.argv[2]
-init(tokenFromStupidCommand);
+const tokenFromKutie = process.argv[2]
+init(tokenFromKutie);
