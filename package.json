@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "eris": "^0.17.1"
+  },
+  "name": "kutie",
+  "version": "1.0.0",
+  "description": "mwa",
+  "main": "index.js",
+  "scripts": {
+    "run": "npm i && node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luekfall/kutie.git"
+  },
+  "author": "like.#6767",
+  "license": "ISC"
+}
